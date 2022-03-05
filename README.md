@@ -2,7 +2,7 @@
   <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 </a>
 <h1 align="center">Hi
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Richu Antony
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dalvin K Vinod
 </h1>
 <h3 align="center">I'm a passionate Developer from India.</h3>
 
@@ -106,12 +106,12 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br><br>
-<a href="https://github.com/Dalvin-K-Vinod/github-readme-activity-graph"><img alt="Richu Antony's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dalvin-K-Vinod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Dalvin-K-Vinod/github-readme-activity-graph"><img alt="Dalvin K Viniod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dalvin-K-Vinod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br><br>
 
 ## 🔁 Connect with me
 <p align="left">
-  <a href = "https://www.linkedin.com/in/Dalvin-K-Vinod-a12817200/">
+  <a href = "#">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href = "#">
